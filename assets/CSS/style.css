@@ -348,6 +348,10 @@ footer {
         margin: 0 auto;
     }
 
+    hr {
+        display: none;
+    }
+
     .left-about-heading, .right-about-heading {
         width: inherit;
     }
